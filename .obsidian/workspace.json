@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "48d35652076563bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ca345d7b99ff5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32b40f95150ca7c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73691f5885f84a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df5428b64e366a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f01273c40cabd09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b207ea565586af96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4d4d8e490e20ee1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2eebd02099a60e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dfe4915f3460448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb5bb264bdd6cfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026.2/Redes Neurais/Neurônio Biológico.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "9250cb6ccc816150",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026.2/Redes Neurais/Neurônio Biológico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "19dcea59df86d23e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "37af48482e9c0785",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "172f72792912d187",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026.2/Redes Neurais/Neurônio Biológico.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "fd4f8fae6dbcaa91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f32b40f95150ca7c",
+  "lastOpenFiles": [
+    "2026.2/Redes Neurais/2.Neurônio Artificial de McCulloch-Pitts (MP).md",
+    "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260822200153.png",
+    "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260822190917.png",
+    "2026.2/Redes Neurais/Midia/Imagens/potencial neuronio.png",
+    "2026.2/Redes Neurais/Midia/Imagens/Sem Título-1222.png",
+    "Pasted image 20260822200414.png",
+    "Pasted image 20260822200240.png",
+    "2026.2/Redes Neurais/1.Neurônio Biológico.md",
+    "2026.2/Redes Neurais/Midia/PDFs/Introdução Redes Neurais.pdf",
+    "2026.2/Microprocessadores/oooaa.md",
+    "Pasted image 20260822185227.png",
+    "2026.2/Redes Neurais/Midia",
+    "2026.2/Redes Neurais/Midia/Imagens",
+    "plugins/table-editor-obsidian/styles.css",
+    "plugins/table-editor-obsidian/manifest.json",
+    "plugins/table-editor-obsidian/main.js",
+    "plugins/table-editor-obsidian/data.json",
+    "plugins/table-editor-obsidian",
+    "plugins/obsidian-tasks-plugin/styles.css",
+    "plugins/obsidian-tasks-plugin/manifest.json"
+  ]
+}
