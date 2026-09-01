@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 6475498
       }
+    },
+    {
+      "query": "tag:Redes Neurais",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -27,7 +41,7 @@
   "textFadeMultiplier": -1.9,
   "nodeSizeMultiplier": 1.42708333333333,
   "lineSizeMultiplier": 2.26927083333333,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.380208333333333,
   "repelStrength": 9.79166666666667,
   "linkStrength": 0.40625,
