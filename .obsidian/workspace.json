@@ -87,14 +87,12 @@
             "id": "c3638321ea62c715",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
-                "mode": "source",
-                "source": false
+                "file": "2026.2/Redes Neurais/Desenhos/Porta OR.md"
               },
-              "icon": "lucide-file",
-              "title": "5. Percepton Simples (PS)"
+              "icon": "excalidraw-icon",
+              "title": "Porta OR"
             }
           },
           {
@@ -103,16 +101,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026.2/Redes Neurais/copiara mult colum.md",
+                "file": "Super Nova/Anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "copiara mult colum"
+              "title": "Anotações"
+            }
+          },
+          {
+            "id": "7d2d498b4d8263b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "4364e14e28edd54b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2026.2/Redes Neurais/Rascunho/Façam rascunhos.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Façam rascunhos"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -277,8 +297,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -292,12 +312,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,34 +333,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c3638321ea62c715",
+  "active": "5f01273c40cabd09",
   "lastOpenFiles": [
-    "2026.2/Redes Neurais/copiar mult colum.md",
     "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
-    "2026.2/Redes Neurais/2. Neurônio Artificial de McCulloch-Pitts (MP).md",
-    "2026.2/Redes Neurais/4. Portas lógicas AND, OR e NOT.md",
-    "2026.2/Redes Neurais/3. Análise geométrica do neurônio MP.md",
+    "2026.2/Redes Neurais/Rascunho/Façam rascunhos.md",
+    "Super Nova/Desenhos.md",
+    "Super Nova/Anotações.md",
     "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md",
+    "Super Nova",
+    "2026.2/Redes Neurais/4. Portas lógicas AND, OR e NOT.md",
     "2026.2/Redes Neurais/Desenhos/Porta OR.md",
-    "2026.2/Redes Neurais/Desenhos/Porta AND.md",
+    "2026.2/Redes Neurais/Desenhos/Drawing 2026-09-09 13.23.36.excalidraw.md",
+    "2026.2/Redes Neurais/Rascunho",
+    "2026.2/Redes Neurais/3. Análise geométrica do neurônio MP.md",
+    "2026.2/Redes Neurais/2. Neurônio Artificial de McCulloch-Pitts (MP).md",
     "2026.2/Redes Neurais/1. Neurônio Biológico.md",
+    "2026.2/Redes Neurais/Desenhos/Neuronio MP.md",
+    "2026.2/Microprocessadores/oooaa.md",
+    "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
+    "2026.2/Redes Neurais/Desenhos/Porta AND.md",
+    "2026.2/Redes Neurais/copiar mult colum.md",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260906204802.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260906204909.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260908095325.png",
-    "2026.2/Redes Neurais/Desenhos/Neuronio MP.md",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260906161838.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted Image 20260906195939_208.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted Image 20260906194508_680.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260906165324.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260906161721.png",
     "2026.2/Redes Neurais/Desenhos/Sem título.md",
-    "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260901165000.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260901165018.png",
     "Excalidraw",
-    "Sem título",
     "2026.2/Redes Neurais/Midia/PDFs/Introdução Redes Neurais.pdf",
-    "2026.2/Microprocessadores/oooaa.md",
     "2026.2/Redes Neurais/Contas/Drawing 2026-09-01 16.44.56.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos",
     "2026.2/Redes Neurais/Drawing 2026-08-31 20.19.26.excalidraw.md",
@@ -350,7 +374,6 @@
     "2026.2/Redes Neurais/Midia/Imagens",
     "plugins/table-editor-obsidian/styles.css",
     "plugins/table-editor-obsidian/manifest.json",
-    "plugins/table-editor-obsidian/main.js",
-    "plugins/table-editor-obsidian/data.json"
+    "plugins/table-editor-obsidian/main.js"
   ]
 }
