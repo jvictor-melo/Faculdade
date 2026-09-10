@@ -125,10 +125,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2026.2/Redes Neurais/Rascunho/Façam rascunhos.md"
+                "file": "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Façam rascunhos"
+              "title": "Vetores e Produto Escalar de Dois Vetores"
             }
           }
         ],
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2eebd02099a60e5",
@@ -307,8 +308,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -316,7 +317,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,10 +335,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5f01273c40cabd09",
+  "active": "4364e14e28edd54b",
   "lastOpenFiles": [
-    "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
     "2026.2/Redes Neurais/Rascunho/Façam rascunhos.md",
+    "Excalidraw/Drawing 2026-09-10 11.30.07.excalidraw.md",
+    "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
     "Super Nova/Desenhos.md",
     "Super Nova/Anotações.md",
     "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md",
@@ -364,7 +370,6 @@
     "2026.2/Redes Neurais/Desenhos/Sem título.md",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260901165000.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260901165018.png",
-    "Excalidraw",
     "2026.2/Redes Neurais/Midia/PDFs/Introdução Redes Neurais.pdf",
     "2026.2/Redes Neurais/Contas/Drawing 2026-09-01 16.44.56.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos",
@@ -373,7 +378,6 @@
     "2026.2/Redes Neurais/Midia",
     "2026.2/Redes Neurais/Midia/Imagens",
     "plugins/table-editor-obsidian/styles.css",
-    "plugins/table-editor-obsidian/manifest.json",
-    "plugins/table-editor-obsidian/main.js"
+    "plugins/table-editor-obsidian/manifest.json"
   ]
 }
