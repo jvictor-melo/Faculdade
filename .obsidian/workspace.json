@@ -123,12 +123,15 @@
             "id": "4364e14e28edd54b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Vetores e Produto Escalar de Dois Vetores"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ],
@@ -333,10 +336,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1537c1eb0cb1839e",
+  "active": "4364e14e28edd54b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-11 19.00.33.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md",
+    "Excalidraw/Drawing 2026-09-11 19.00.33.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos/Porta OR.md",
     "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
     "2026.2/Redes Neurais/Desenhos/Neuronio MP.md",
