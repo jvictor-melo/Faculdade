@@ -316,8 +316,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,10 +333,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4364e14e28edd54b",
+  "active": "1537c1eb0cb1839e",
   "lastOpenFiles": [
-    "2026.2/Redes Neurais/Desenhos/Porta OR.md",
+    "Excalidraw/Drawing 2026-09-11 19.00.33.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md",
+    "2026.2/Redes Neurais/Desenhos/Porta OR.md",
     "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
     "2026.2/Redes Neurais/Desenhos/Neuronio MP.md",
     "2026.2/Redes Neurais/Desenhos/Porta AND.md",
