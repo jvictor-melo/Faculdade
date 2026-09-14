@@ -3,12 +3,12 @@
   "calendar",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-mind-map",
   "obsidian-kanban",
   "multi-column-markdown",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "excalidraw-extras"
 ]

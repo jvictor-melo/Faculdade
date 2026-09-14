@@ -1,0 +1,58 @@
+---
+title: "Adaline vs Perceptron"
+author: "Alan"
+date: "2026-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Exemplo: classificador binário 'preguiçoso'
+
+Um exemplo didático muito bom é um problema desbalanceado, em que apenas 10% dos indivíduos pertencem à classe positiva.
+
+Imagine um classificador para detectar uma doença:
+
+900 pessoas não têm a doença;  
+100 pessoas têm a doença.
+
+Agora considere um classificador extremamente "preguiçoso" que simplesmente diz:
+
+>"Ninguém tem a doença."
+
+Ele terá **90% de acurácia**, mas é um péssimo classificador, porque não consegue detectar nenhum caso positivo.
+
+Exemplo completo em R
+
+```{r}
+# -----------------------------
+# 1. Criando os dados
+# -----------------------------
+
+real <- c(
+  rep(0, 900),   # 900 pessoas sem doença
+  rep(1, 100)    # 100 pessoas com doença
+)
+
+# Classificador "ruim":
+# prevê que ninguém tem a doença
+predito <- rep(0, 1000)
+
+
+# -----------------------------
+# 2. Matriz de confusão
+# -----------------------------
+
+table(
+  Real = real,
+  Predito = predito
+)
+
+acuracia <- mean(real == predito)
+
+acuracia
+```
+
+O classificador não detectou nenhuma das 100 pessoas doentes.

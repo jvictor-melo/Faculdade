@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAppWindow",
+      "LiAntenna",
       "LiAlarmMinus",
       "LiActivity"
     ],
@@ -32,5 +34,7 @@
     "useInternalPlugins": false
   },
   "Faculdade": "LiActivity",
-  "Concurso": "LiAlarmMinus"
+  "Concurso": "LiAlarmMinus",
+  "2026.2/Redes Neurais": "LiAntenna",
+  "2026.2/Redes Neurais/Desenhos": "LiAppWindow"
 }
