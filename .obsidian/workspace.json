@@ -6,7 +6,6 @@
       {
         "id": "9d323d013a130ed9",
         "type": "tabs",
-        "dimension": 60.46954314720813,
         "children": [
           {
             "id": "5a7526472dc37cd4",
@@ -14,34 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
+                "file": "2026.2/Redes Neurais/Desenhos/PS Porta XOR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Percepton Simples (PS)"
+              "title": "PS Porta XOR"
             }
-          }
-        ]
-      },
-      {
-        "id": "300c041361788061",
-        "type": "tabs",
-        "dimension": 39.53045685279188,
-        "children": [
+          },
           {
-            "id": "094c143f08f668e5",
+            "id": "16f8907d67eaae2e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2026.2/Redes Neurais/Desenhos/PS Porta OR.md"
+                "file": "2026.2/Redes Neurais/Desenhos/Drawing 2026-09-15 12.13.59.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "PS Porta OR"
+              "title": "Drawing 2026-09-15 12.13.59.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +213,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -232,13 +225,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5a7526472dc37cd4",
+  "active": "16f8907d67eaae2e",
   "lastOpenFiles": [
+    "2026.2/Redes Neurais/Desenhos/PS Porta XOR.md",
+    "2026.2/Redes Neurais/Desenhos/PS Porta OR.md",
+    "2026.2/Redes Neurais/Desenhos/Drawing 2026-09-15 12.13.59.excalidraw.md",
+    "2026.2/Redes Neurais/Desenhos/Porta AND.md",
+    "2026.2/Redes Neurais/Desenhos/Neuronio MP.md",
+    "2026.2/Redes Neurais/Desenhos/Porta OR.md",
+    "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
     "Pasted image 20260914143103.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260914103015.png",
-    "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
-    "2026.2/Redes Neurais/Desenhos/PS Porta OR.md",
-    "2026.2/Redes Neurais/Desenhos/Neuronio MP.md",
     "perceptron_atualizado (1).pdf.md",
     "2026.2/Redes Neurais/4. Portas lógicas AND, OR e NOT.md",
     "2026.2/Redes Neurais/Midia/Material/grad_descendente.pdf",
@@ -255,7 +252,6 @@
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260913133056.png",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260913121744.png",
     "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md",
-    "2026.2/Redes Neurais/Desenhos/Porta OR.md",
     "2026.2/Redes Neurais/1. Neurônio Biológico.md",
     "2026.2/Redes Neurais/Rascunho/Façam rascunhos.md",
     "Super Nova/Anotações.md",
@@ -268,14 +264,12 @@
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260911131034.png",
     "Excalidraw/Drawing 2026-09-11 19.00.33.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
-    "2026.2/Redes Neurais/Desenhos/Porta AND.md",
     "2026.2/Redes Neurais/2. Neurônio Artificial de McCulloch-Pitts (MP).md",
     "Excalidraw/Drawing 2026-09-10 11.30.07.excalidraw.md",
     "2026.2/Redes Neurais/Desenhos/Drawing 2026-09-09 13.23.36.excalidraw.md",
     "2026.2/Redes Neurais/3. Análise geométrica do neurônio MP.md",
     "2026.2/Microprocessadores/oooaa.md",
     "2026.2/Redes Neurais/copiar mult colum.md",
-    "2026.2/Redes Neurais/Desenhos/Sem título.md",
     "2026.2/Redes Neurais/Contas/Drawing 2026-09-01 16.44.56.excalidraw.md",
     "2026.2/Redes Neurais/Drawing 2026-08-31 20.19.26.excalidraw.md",
     "Excalidraw/Drawing 2026-08-23 12.12.26.excalidraw.md"
