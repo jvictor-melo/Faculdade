@@ -40,6 +40,7 @@ Repositório de anotações e materiais de estudo do período **2026.2**, organi
 - Se aparecer arquivo de outra matéria que você não mexeu, NÃO dê add nele.
 - Mensagens de commit objetivas: `"Matéria: o que foi adicionado/alterado"`.
   Se quiserem adcionar os emojis de dos commits:
+
 | Emoji | Código | Tipo | Quando usar |
 |:---:|---|---|---|
 | ✨ | `:sparkles:` | **feat** | Começou uma matéria/tópico novo |
