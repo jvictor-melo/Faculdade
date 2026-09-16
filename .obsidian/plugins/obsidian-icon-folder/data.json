@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAperture",
+      "LiALargeSmall",
       "LiAppWindow",
       "LiAntenna",
-      "LiAlarmMinus",
-      "LiActivity"
+      "LiAlarmMinus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +37,8 @@
   "Faculdade": "LiActivity",
   "Concurso": "LiAlarmMinus",
   "2026.2/Redes Neurais": "LiAntenna",
-  "2026.2/Redes Neurais/Desenhos": "LiAppWindow"
+  "2026.2/Redes Neurais/Desenhos": "LiAppWindow",
+  "2026.2/Microprocessadores": "LiAppWindow",
+  "2026.2/LInguagens Formais": "LiALargeSmall",
+  "2026.2/Sistemas Multimidia": "LiAperture"
 }
