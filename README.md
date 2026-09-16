@@ -41,18 +41,19 @@ Repositório de anotações e materiais de estudo do período **2026.2**, organi
 - Mensagens de commit objetivas: `"Matéria: o que foi adicionado/alterado"`.
   Se quiserem adcionar os emojis de dos commits:
 
-| Emoji | Código | Tipo | Quando usar |
-|:---:|---|---|---|
-| ✨ | `:sparkles:` | **feat** | Começou uma matéria/tópico novo |
-| 📝 | `:memo:` | **docs** | Escreveu ou complementou uma anotação |
-| 🐛 | `:bug:` | **fix** | Corrigiu erro de conteúdo (conta errada, info furada) |
-| 🎨 | `:art:` | **style** | Organização/formatação de arquivos e pastas |
-| ♻️ | `:recycle:` | **refactor** | Reescreveu/reorganizou anotação já existente |
-| 🖼️ | `:framed_picture:` | **media** | Adicionou imagem, print ou desenho |
-| 📚 | `:books:` | **material** | Adicionou PDF, slide, apostila, lista de exercícios |
-| ✅ | `:white_check_mark:` | **done** | Marcou tópico como estudado no checklist |
-| 🚧 | `:construction:` | **wip** | Anotação incompleta, ainda estudando o tópico |
-| 🗑️ | `:wastebasket:` | **remove** | Removeu arquivo/anotação obsoleta |
-| ⬆️ | `:arrow_up:` | **update** | Atualizou conteúdo que já existia |
-| 🔀 | `:twisted_rightwards_arrows:` | **merge** | Merge de branch |
+| Emoji | Código                        | Tipo         | Quando usar                                           |
+| :---: | ----------------------------- | ------------ | ----------------------------------------------------- |
+|   ✨   | `:sparkles:`                  | **feat**     | Começou uma matéria/tópico novo                       |
+|  📝   | `:memo:`                      | **docs**     | Escreveu ou complementou uma anotação                 |
+|  🐛   | `:bug:`                       | **fix**      | Corrigiu erro de conteúdo (conta errada, info furada) |
+|  🎨   | `:art:`                       | **style**    | Organização/formatação de arquivos e pastas           |
+|  ♻️   | `:recycle:`                   | **refactor** | Reescreveu/reorganizou anotação já existente          |
+|  🖼️  | `:framed_picture:`            | **media**    | Adicionou imagem, print ou desenho                    |
+|  📚   | `:books:`                     | **material** | Adicionou PDF, slide, apostila, lista de exercícios   |
+|   ✅   | `:white_check_mark:`          | **done**     | Marcou tópico como estudado no checklist              |
+|  🚧   | `:construction:`              | **wip**      | Anotação incompleta, ainda estudando o tópico         |
+|  🗑️  | `:wastebasket:`               | **remove**   | Removeu arquivo/anotação obsoleta                     |
+|  ⬆️   | `:arrow_up:`                  | **update**   | Atualizou conteúdo que já existia                     |
+|  🔀   | `:twisted_rightwards_arrows:` | **merge**    | Merge de branch                                       |
+
 Exemplo: `git commit -m "✨ Redes Neurais: add anotação sobre MLP"`
