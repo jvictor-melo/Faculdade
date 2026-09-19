@@ -25,18 +25,28 @@
             "id": "f23787afa8176a5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2026.2/LInguagens Formais/aoaooaoa.md",
-                "mode": "source",
-                "source": false
+                "file": "2026.2/Redes Neurais/Desenhos/PS Porta XOR.md"
               },
-              "icon": "lucide-file",
-              "title": "aoaooaoa"
+              "icon": "excalidraw-icon",
+              "title": "PS Porta XOR"
+            }
+          },
+          {
+            "id": "52e5a022b2febeea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2026.2/Redes Neurais/Midia/Material/adaline.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "adaline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2eebd02099a60e5",
@@ -215,7 +226,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -224,20 +235,25 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-toggle-dark-mode:PDF appearance: Light (click for Dark)": false
     }
   },
-  "active": "5f01273c40cabd09",
+  "active": "52e5a022b2febeea",
   "lastOpenFiles": [
+    "2026.2/Redes Neurais/Desenhos/PS Porta XOR.md",
+    "2026.2/Redes Neurais/Midia/Material/adaline.pdf",
+    "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
+    "2026.2/Redes Neurais/Adeline.md",
+    "2026.2/Redes Neurais/6 e 7. Porta XOR.md",
+    "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260916173903.png",
+    "2026.2/LInguagens Formais/aoaooaoa.md",
     "2026.2/Sistemas Multimidia/aoaooaoa.md",
     "2026.2/Paradigmas de Programação/aoaooaoa.md",
     "2026.2/Paradigmas de Programação",
     "2026.2/Sistemas Multimidia",
-    "2026.2/Redes Neurais/6 e 7. Porta XOR.md",
-    "2026.2/LInguagens Formais/aoaooaoa.md",
     "2026.2/LInguagens Formais",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260915200743.png",
-    "2026.2/Redes Neurais/Desenhos/PS Porta XOR.md",
     "2026.2/Redes Neurais/5. Percepton Simples (PS).md",
     "2026.2/Redes Neurais/4. Portas lógicas AND, OR e NOT.md",
     "2026.2/Redes Neurais/1. Neurônio Biológico.md",
@@ -263,17 +279,12 @@
     "2026.2/Redes Neurais/Midia/Material/Concrete_Data.xls",
     "2026.2/Redes Neurais/Midia/Material/coluna-output.txt",
     "2026.2/Redes Neurais/Midia/Material/coluna-input.txt",
-    "2026.2/Redes Neurais/Midia/Material/coluna_vertebral_2_classe.csv",
     "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260913133307.png",
-    "2026.2/Redes Neurais/Midia/Imagens/Pasted image 20260913133056.png",
     "2026.2/Redes Neurais/Desenhos/Vetores e Produto Escalar de Dois Vetores.md",
     "2026.2/Redes Neurais/Rascunho/Façam rascunhos.md",
     "Super Nova/Anotações.md",
     "Super Nova/Desenhos.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-09-11 19.00.33.excalidraw.md",
-    "2026.2/Redes Neurais/Desenhos/Porta NOT.md",
-    "Excalidraw/Drawing 2026-09-10 11.30.07.excalidraw.md",
-    "2026.2/Redes Neurais/Desenhos/Drawing 2026-09-09 13.23.36.excalidraw.md"
+    "Excalidraw/Drawing 2026-09-11 19.00.33.excalidraw.md"
   ]
 }
