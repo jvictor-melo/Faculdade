@@ -1,4 +1,4 @@
-O Modelo ADALINE é bem parecido com [[5. Percepton Simples (PS)|Percepton Simples]]. 
+O Modelo ADALINE é bem parecido com [[5. Perceptron Simples (PS)|Percepton Simples]]. 
 No geral, o Modelo ADALINE (**ADA**ptive **LIN**ear **E**lement) é um modelo mais sensível ao erro. Porque? Ao invés de comparar o alvo (d) com a saída já decidida (y), ele compara com o valor bruto (u). 
 $$\Huge e = d - u$$
 Ai ele continua ajustando e ajustando mesmo depois de já ter classificado corretamente, Isso acaba trazendo pra nós um resultado bem mais próximo do desejado. 
